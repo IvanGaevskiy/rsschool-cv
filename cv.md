@@ -54,3 +54,5 @@ EvenOrOdd[2] # => "Even"
 [RubyCourse](https://rubyrush.ru/ "RubyRush")
 
 ## *English language.*
+
+Beginner (A1)
