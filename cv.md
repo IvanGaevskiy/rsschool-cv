@@ -1,7 +1,7 @@
 # Gaevskii Ivan
+![GaevskiyIvan](img/profile_photo.jpg)
 
-My [Telegram](https://t.me/Ivan_Ruby_Developer "@Ivan_Ruby_Developer ") 
-and [Discord](https://discord.com/users/1202284197868490847 "IvanGaevskiy")
+### My [Telegram](https://t.me/Ivan_Ruby_Developer "@Ivan_Ruby_Developer ") and [Discord](https://discord.com/users/1202284197868490847 "IvanGaevskiy")
 
 ## *About me*
 
