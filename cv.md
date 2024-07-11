@@ -1,5 +1,6 @@
 # Gaevskii Ivan
-![GaevskiyIvan](img/profile_photo.jpg)
+<img src="img/profile_photo.jpg" alt="альтернативный текст" width="240" height="auto">
+
 
 ### My [Telegram](https://t.me/Ivan_Ruby_Developer "@Ivan_Ruby_Developer ") and [Discord](https://discord.com/users/1202284197868490847 "IvanGaevskiy")
 
